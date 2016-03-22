@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>网页学习</title>
+</head>
+<body>
+  <h1>网站一级标题，yoho</h1>
+  <ul>
+    <li><a href="#">one</a></li>
+    <li><a href="#">two</a></li>
+    <li><a href="#">three</a></li>
+    <li><a href="#">four</a></li>
+  </ul>
+  <h2>文章一级标题</h2>
+  <h2>文章二级标题</h2>
+  <p>writer&nbsp;&nbsp;time
+    <br />
+    paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph
+    <br />
+paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,<a href="#">paragraph</a>
+    paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph
+  </p>
+  <img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1458655489&di=98ba2403c99700eb3636ae51e0e60d00&src=http://img.boqiicdn.com/Data/S/T/201504/img35441428028132.png">
+   <p>
+     <strong>paragraph</strong><em>paragraph</em><strong>paragraph</strong><em>paragraph</em><strong>paragraph</strong><em>paragraph</em><a href="#" target="_blank">here~here~</a><strong>paragraph</strong><em>paragraph</em>
+  </p>
+  <h2>另一篇文章一级标题</h2>
+  <h2>又是我，二级标题</h2>
+  <p>writer&nbsp;time
+    <br />  
+    paragraph,paragraph,paragraph,paragraph,paragraph
+    <br />
+paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,paragraph,<a href="#">paragraph</a>
+    paragraph
+  </p>
+  <img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1458655489&di=98ba2403c99700eb3636ae51e0e60d00&src=http://img.boqiicdn.com/Data/S/T/201504/img35441428028132.png">
+  <ul>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+  </ul>
+  <h2>图片</h2>
+  <br>
+  <p>给你好看的图片</p>
+  <img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1458655489&di=98ba2403c99700eb3636ae51e0e60d00&src=http://img.boqiicdn.com/Data/S/T/201504/img35441428028132.png">  
+  <p>给你复制好看的图片</p>
+  <img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1458655489&di=98ba2403c99700eb3636ae51e0e60d00&src=http://img.boqiicdn.com/Data/S/T/201504/img35441428028132.png">  
+  <p>复制给你好看的图片</p>
+  <img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1458655489&di=98ba2403c99700eb3636ae51e0e60d00&src=http://img.boqiicdn.com/Data/S/T/201504/img35441428028132.png">      
+  <p>复制给你好看的图片</p>
+  <img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1458655489&di=98ba2403c99700eb3636ae51e0e60d00&src=http://img.boqiicdn.com/Data/S/T/201504/img35441428028132.png">   
+  <p>复制给你好看的图片</p>
+  <img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1458655489&di=98ba2403c99700eb3636ae51e0e60d00&src=http://img.boqiicdn.com/Data/S/T/201504/img35441428028132.png"> 
+  <h2>最后一篇文章一级标题</h2>
+  <h2>又是我，二级标题</h2>
+  <p>writer&nbsp;time</p>
+  <ol>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+  </ol>
+  <table border="1px">
+    <caption>西瓜多少钱一斤？</caption>
+    <tbody>
+      <tr>
+        <th>西瓜价格</th>
+        <th>嘻嘻</th>
+        <th>呼呼</th>
+      </tr>
+      <tr>
+        <td>Monday</td>
+        <td>11</td>
+        <td>22</td>
+      </tr>
+      <tr>
+        <td>Friday</td>
+        <td>11</td>
+        <td>22</td>
+      </tr>
+      <tr>
+        <td>Sunday</td>
+        <td>11</td>
+        <td>22</td>
+      </tr>
+    </tbody>
+  </table>
+  <h2>我是侧栏</h2>
+  <h2>我是侧栏注册窗口标题</h2>  
+  <form>
+    <label>请输入邮箱地址：</label>
+    <input type="text" value="输入输入文本输入">
+    <br />
+    <label>邮箱地址请按要求格式输入</label>
+    <br />
+    <label>请输入密码：</label>
+    <input type="text" value="输入输入文本输入">
+    <label>请重复输入密码：</label>
+    <input type="text" value="输入输入文本输入">
+    <br />
+    <label>密码请为6-16位英文数字</label>
+    <br />
+  </form>
+  <label>性别：</label>
+  <input type="radio" name="1" checked="checked"/>
+  <label>男</label>
+  <input type="radio" name="1" />
+  <label>女</label>
+  <label>城市：</label>
+  <select>
+    <option value="北京"select="selected">北京</option>
+    <option value="上海">上海</option>
+    <option value="深圳">深圳</option>
+    <option value="我家">我家</option>
+  </select>
+  <label>爱好：</label>
+  <input type="checkbox" name="interest">
+  <label>运动</label>
+  <input type="checkbox" name="interest">
+  <label>艺术</label>
+  <input type="checkbox" name="interest">
+  <label>科学</label>
+  <input type="checkbox" name="interest">
+  <label>个人描述：</label>
+  <textarea rows="5" cols="30">多行输入</textarea>
+  <input type="submit" value="确认提交">
+  <br />
+  版权所有
+  
+</body>
+</html>
